@@ -10,3 +10,7 @@ body.new_header_design .page_header_wrap {
 body.new_header_design #side_bar ol li .left_row {
     color: #e9eaec !important;
 }
+.LeftMenu__icon {
+   
+    color: #6f7074 !important;
+}
