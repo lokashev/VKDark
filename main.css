@@ -1,3 +1,15 @@
 .page_block {
     background: #cf1919 !important;
 }
+body.new_header_design .page_header_wrap {
+    background-color: #01b075;
+}
+.scroll_fix {
+    background-color: #16171b;
+}
+.wall_text {
+    background-color: #202125;
+}
+body.new_header_design #side_bar ol li .left_row {
+    color: #e9eaec;
+}
