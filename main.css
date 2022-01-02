@@ -1,3 +1,7 @@
+body{
+    color: #e9eaec !important;
+    --page-block-shadow: 0 1px 0 0 #222222, 0 0 0 1px #222222;
+}
 body.new_header_design .page_header_wrap {
     background-color: #01b075 !important;
 }
@@ -18,4 +22,7 @@ body.new_header_design #side_bar ol li .left_row {
     
     background-color: #202125 !important;
 
+}
+.page_block {
+    background: #202125 !important;
 }
