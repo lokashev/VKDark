@@ -1,6 +1,6 @@
 body{
     color: #e9eaec !important;
-    --page-block-shadow: 0 1px 0 0 #222222, 0 0 0 1px #222222;
+    --page-block-shadow: 0 1px 0 0 #222222, 0 0 0 1px #222222 !important;
 }
 body.new_header_design .page_header_wrap {
     background-color: #01b075 !important;
@@ -25,4 +25,14 @@ body.new_header_design #side_bar ol li .left_row {
 }
 .page_block {
     background: #202125 !important;
+}
+.page_name, h1.page_name {
+    color: #e9eaec !important;
+}
+.FlatButton--secondary {
+    background-color: #01b075 !important;
+}
+[dir] .FlatButton--secondary:not(.disable):hover {
+    background-color: #08f5a6 !important;
+    color: #e9eaec !important ;
 }
